@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Colour_Detection-Python/blob/master/Files/detected.gif" width="400"  /> <br><br>
+<img src="https://github.com/Godson-Thomas/Colour_Detection-Python/blob/master/Files/detected.gif" width="500"  /> <br><br>
 # IMAGE PROCESSING
 Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it.The input of that system is a digital image and the system process that image using efficient algorithms, and gives an image as an output.
 
