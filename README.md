@@ -1,4 +1,4 @@
-<img src="https://github.com/Godson-Thomas/Image_Processing--Real-time-Facial-detection-Python/blob/master/images_xmls_videos/2.gif" width="400"  /> <br><br>
+<img src="https://github.com/Godson-Thomas/Colour_Detection-Python/blob/master/Files/detected.gif" width="400"  /> <br><br>
 # IMAGE PROCESSING
 Image processing is a method to perform some operations on an image, in order to get an enhanced image or to extract some useful information from it.The input of that system is a digital image and the system process that image using efficient algorithms, and gives an image as an output.
 
@@ -44,7 +44,7 @@ img_path = args['image']
 ```
 <br>
 
-6. Read the image.   [sample image]()
+6. Read the image.   [sample image](https://raw.githubusercontent.com/Godson-Thomas/Colour_Detection-Python/master/Files/pic.jpg)
 ```
 img = cv2.imread("/home/color-detection/pic.jpg")
 ```
@@ -57,7 +57,7 @@ r = g = b = xpos = ypos = 0
 ```
 <br>
 
-8. Reading csv file and assigning names to each column.  [csv file]()
+8. Reading csv file and assigning names to each column.  [csv file](https://raw.githubusercontent.com/Godson-Thomas/Colour_Detection-Python/master/Files/colours.csv)
 ```
 index=["color","color_name","hex","R","G","B"]
 csv = pd.read_csv("/home/color-detection/colours.csv", names=index, header=None)
