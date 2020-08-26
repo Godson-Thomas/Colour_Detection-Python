@@ -25,7 +25,7 @@ pip install numpy
 ```
 <br><br>
 * ## Code 
-  - Full code.   [click here]("https://github.com/Godson-Thomas/Colour_Detection-Python/blob/master/Colour_Detection.ipynb")<br><br>
+  - Full code.   [click here](https://github.com/Godson-Thomas/Colour_Detection-Python/blob/master/Colour_Detection.ipynb)<br><br>
 4. Import the modules
 ```
 import cv2
